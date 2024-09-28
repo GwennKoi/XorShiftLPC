@@ -1,0 +1,3 @@
+*.c linguist-language=LPC
+*.h linguist-language=LPC
+*.lpc linguist-language=LPC
